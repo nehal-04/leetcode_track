@@ -24,8 +24,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/nehal-04/leet_track_nehal011/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0213-house-robber-ii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nehal-04/leet_track_nehal011/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
