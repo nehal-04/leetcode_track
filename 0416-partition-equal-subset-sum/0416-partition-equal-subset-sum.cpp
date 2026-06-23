@@ -20,8 +20,11 @@ public:
 
         for(int i=1;i<=n;i++){
             for(int j=1;j<=s;j++){
-                if(j-nums[i-1] >=0)dp[i][j] = dp[i-1][j-nums[i-1]];
-                else dp[i][j]=dp[i-1][j];
+                //dp state is if using first i elelenmtns sum j can be made
+                // now decide pick or no pick
+                bool notpick=dp[i-1][j];
+                bool pick = (j>=nums[i-1]) ? dp[i-1][j-nums[i-1]] :0;
+                dp[i][j] = pick || notpick; 
             }
         }
         return dp[n][s];
