@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 ## Memoization
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Combinatorics
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -68,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
