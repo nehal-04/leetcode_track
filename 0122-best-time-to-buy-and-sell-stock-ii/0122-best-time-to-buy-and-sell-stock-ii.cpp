@@ -12,6 +12,6 @@ public:
             dp_ationestock[i] = max(dp_atizerostock[i-1] - prices[i] , dp_ationestock[i-1]);
         }
 
-        return max(dp_atizerostock[n-1] , dp_ationestock[n-1]);          
+        return dp_atizerostock[n-1];          
     }
 };
