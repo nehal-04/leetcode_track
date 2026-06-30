@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Combinatorics
 |  |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -97,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
