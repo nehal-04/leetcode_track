@@ -7,6 +7,8 @@ public:
         vector<int>outdegree(n,0);
         vector<vector<int>>parent_ofidxnode(n);
         queue<int>q;
+        
+        vector<bool>safe(n,false) ; //to prevent time complexity of sorting by increase space complexity
 
         for(int i=0;i<n;i++){
             if(graph[i].size()==0){
@@ -23,7 +25,7 @@ public:
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            ans.push_back(node);
+            safe[node]=true;
             for(int w : parent_ofidxnode[node]){
                 outdegree[w]--;
                 if(outdegree[w] == 0) q.push(w);
@@ -31,7 +33,9 @@ public:
             }
         }
 
-        sort(ans.begin() , ans.end());
+        for(int i=0;i<n;i++){
+            if(safe[i]==true) ans.push_back(i);
+        }
         return ans;
 
     }
