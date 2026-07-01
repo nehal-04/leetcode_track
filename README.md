@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/nehal-04/leet_track_nehal011/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nehal-04/leet_track_nehal011/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0626-exchange-seats](https://github.com/nehal-04/leet_track_nehal011/tree/master/0626-exchange-seats) |
 | [1174-immediate-food-delivery-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nehal-04/leet_track_nehal011/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nehal-04/leet_track_nehal011/tree/master/1633-percentage-of-users-attended-a-contest) |
