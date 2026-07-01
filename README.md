@@ -127,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nehal-04/leet_track_nehal011/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nehal-04/leet_track_nehal011/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/nehal-04/leet_track_nehal011/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/nehal-04/leet_track_nehal011/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/nehal-04/leet_track_nehal011/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
