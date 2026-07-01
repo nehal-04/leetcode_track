@@ -122,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nehal-04/leet_track_nehal011/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nehal-04/leet_track_nehal011/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nehal-04/leet_track_nehal011/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/nehal-04/leet_track_nehal011/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
