@@ -52,16 +52,8 @@ public:
             slow=slow->next;
         }
         ListNode* mid=nullptr;
-        if(fast == nullptr){
-            //even length list
-            prev->next=nullptr;
-            mid=slow;
-        }
-        else{
-            // in an odd length list , left side more elemtns right side less
-            mid=slow->next;
-            slow->next=nullptr;
-        }
+        mid=slow;
+        prev->next=nullptr;
         
 
         ListNode* A = sortList(temp);
