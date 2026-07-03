@@ -3,23 +3,17 @@ public:
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
         if(n<=1) return n;
-        unordered_set<char> existing;
         int l=0;
         int r=0;
-        int maxwindow=0;
+        int maxwindow=INT_MIN;
+        vector<int>lastseen(128,-1);
         while(l<=r && r<n){
-            auto it= existing.find(s[r]);
-            if(it == existing.end()){
-                existing.insert(s[r]);
-                maxwindow=max(r-l+1,maxwindow);
+            char curr=s[r];
+            if(lastseen[curr] >= l){
+                l = lastseen[curr]+1;     
             }
-            else{
-                while(l<=r && existing.find(s[r]) != existing.end()){
-                    existing.erase(s[l]);
-                    l++;
-                }
-                existing.insert(s[r]);
-            }
+            lastseen[curr]=r;
+            maxwindow=max(maxwindow , r-l+1);
             r++;
         }
         return maxwindow;
