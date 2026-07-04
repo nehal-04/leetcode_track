@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
+| [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
