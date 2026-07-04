@@ -99,17 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
