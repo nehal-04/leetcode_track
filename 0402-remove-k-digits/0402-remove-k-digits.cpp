@@ -3,39 +3,43 @@ public:
     string removeKdigits(string num, int k) {
 
         int n=num.size();
-        if(n==k) return "0";
-
+        if(num=="0") return "0";
         string ans="";
-        stack<char>st;
-        st.push(num[0]);
+
+        stack<int>st;
+        st.push(num[0]-'0');
         for(int i=1;i<n;i++){
-            while(!st.empty() && k>0 && st.top() -'0' > num[i]-'0'){
-                st.pop();
-                k--;
-            }
-            st.push(num[i]);
+            while(k>0 && !st.empty() && st.top()  > num[i]-'0' ) {st.pop();k--;}
+            st.push(num[i]-'0');
         }
-        // ip if say 123456 , noral logic wont remove , so remove last ke digit
 
+        //for cases like 123456
         while(k>0){
-            st.pop();
             k--;
-        }
-        if(st.empty()) return "0";
-        while(!st.empty()){
-            ans+= st.top();
             st.pop();
         }
 
+        if(st.empty())return "0";
+        while(!st.empty()){
+            ans+=to_string(st.top());
+            st.pop();
+        }
 
-        //imp
-        while(ans.size() > 0 && ans.back()=='0'){
+        //imp if answer seems to be starting with 0 , remove the 0s
+        while(ans.size()>0 && ans.back()=='0'){
             ans.pop_back();
         }
+        if(ans.empty())return "0";
         reverse(ans.begin() , ans.end());
-
-        if(ans.size()==0 ) return "0";
+        
         return ans;
+
+
+
+
+
+
+
 
 
         
