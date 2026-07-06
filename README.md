@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nehal-04/leet_track_nehal011/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/nehal-04/leet_track_nehal011/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nehal-04/leet_track_nehal011/tree/master/0070-climbing-stairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehal-04/leet_track_nehal011/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nehal-04/leet_track_nehal011/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
