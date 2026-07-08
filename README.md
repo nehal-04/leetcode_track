@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/nehal-04/leet_track_nehal011/tree/master/1288-remove-covered-intervals) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/nehal-04/leet_track_nehal011/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 ## String Matching
 |  |
 | ------- |
