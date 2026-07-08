@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Union-Find
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
