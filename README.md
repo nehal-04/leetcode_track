@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehal-04/leet_track_nehal011/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/nehal-04/leet_track_nehal011/tree/master/1288-remove-covered-intervals) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/nehal-04/leet_track_nehal011/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
