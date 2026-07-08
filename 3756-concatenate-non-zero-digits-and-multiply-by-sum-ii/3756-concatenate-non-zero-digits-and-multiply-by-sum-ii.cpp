@@ -25,32 +25,25 @@ public:
         int running_sum = 0;
         int running_countofnonzeroes = 0;
         long long running_concatenatedno = 0;
-
         for (int i = 0; i < sz; i++) {
             int d = s[i] - '0';
             running_sum += d;
             prefix_sum[i] = running_sum;
-
             if (d == 0) {
                 concatenated_number[i] = running_concatenatedno;
                 count_of_nonzero_numbers[i] = running_countofnonzeroes;
                 continue;
             }
-
             running_concatenatedno = (running_concatenatedno * 10 + d) % mod;
             running_countofnonzeroes++;
             concatenated_number[i] = running_concatenatedno;
             count_of_nonzero_numbers[i] = running_countofnonzeroes;
         }
-
-        // Processing queries
         for (int i = 0; i < n; i++) {
             int from = queries[i][0];
             int to = queries[i][1];
-
             long long sum_used = 0;
             long long number = 0;
-
             if (from == 0) {
                 sum_used = prefix_sum[to];
                 number = concatenated_number[to];
@@ -60,7 +53,7 @@ public:
                 
                 // 2. Prevent negative results using (+ mod) % mod
                 long long remove_part = (1LL * concatenated_number[from - 1] * powerof10[ct_ofnonzero]) % mod;
-                number = (concatenated_number[to] - remove_part + mod) % mod;
+                number = (concatenated_number[to] - remove_part + mod ) % mod;
             }
 
             ans[i] = (sum_used * number) % mod;
