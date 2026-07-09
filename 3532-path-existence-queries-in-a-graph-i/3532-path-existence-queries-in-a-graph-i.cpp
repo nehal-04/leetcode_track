@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        vector<vector<int>>adj(n);
         int i=n-1;
         vector<int>visited(n,-1);
         int component=0;
