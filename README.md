@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Number Theory
 |  |
