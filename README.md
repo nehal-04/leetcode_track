@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
@@ -355,10 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nehal-04/leet_track_nehal011/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nehal-04/leet_track_nehal011/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
