@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
