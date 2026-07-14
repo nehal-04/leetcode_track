@@ -12,21 +12,19 @@
 class Solution {
 private:
     int maxpathhelper(TreeNode* node , int& maxi){
-        if(node==nullptr){
-            return 0;
-        }
-        int left_path = max(0,maxpathhelper(node->left , maxi));
-        int right_path = max(0 , maxpathhelper(node->right , maxi));
-        maxi = max(maxi , left_path + right_path + node->val);
-        return node->val + max(left_path , right_path);
+        if(node==nullptr) return 0;
+        int lh = max(0, maxpathhelper(node->left , maxi));
+        int rh = max(0,maxpathhelper(node->right , maxi));
+        maxi = max(maxi , node->val + lh + rh);
+        return node->val + max(lh,rh);
     }
+    
 public:
 
     int maxPathSum(TreeNode* root) {
-        int maxi=INT_MIN;
-        int n=maxpathhelper(root , maxi);
-        return maxi;
-       
+       int maxi=INT_MIN;
+       int t = maxpathhelper(root , maxi);
+       return maxi;
         
     }
 };
