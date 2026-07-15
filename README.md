@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nehal-04/leet_track_nehal011/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nehal-04/leet_track_nehal011/tree/master/0217-contains-duplicate) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/1331-rank-transform-of-an-array) |
