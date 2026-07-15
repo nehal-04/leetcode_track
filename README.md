@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nehal-04/leet_track_nehal011/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/nehal-04/leet_track_nehal011/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/nehal-04/leet_track_nehal011/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/1331-rank-transform-of-an-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nehal-04/leet_track_nehal011/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -401,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
