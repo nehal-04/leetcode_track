@@ -30,11 +30,8 @@ public:
             int c = q.front().second;
             q.pop();
             int ans=0;
-            dfs(grid , r , c , visited , ans);
+            if(!visited[r][c]) dfs(grid , r , c , visited , ans);
             finalans=max(finalans , ans);
-            for(int i=0;i<rows;i++){
-                for(int j=0;j<cols;j++) visited[i][j] =0;
-            }
         }
         return finalans;
 
