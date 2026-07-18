@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/nehal-04/leet_track_nehal011/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehal-04/leet_track_nehal011/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
 ## String Matching
 |  |
