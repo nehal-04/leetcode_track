@@ -4,29 +4,20 @@ public:
         int rows=grid.size();
         int cols = grid[0].size();
 
-        vector<int>flattenedout;
+        int total=rows*cols;
+        int eff_k = k % total;
+
+        vector<vector<int>>finalans(rows , vector<int>(cols));
+
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
-                flattenedout.push_back(grid[i][j]);
-            }
-        }
-        //now essentially right rotate flattend out by k places
-        int eff_k = k%(rows*cols);
-        reverse(flattenedout.begin() , flattenedout.end());
-        reverse(flattenedout.begin() , flattenedout.begin() + eff_k);
-        reverse(flattenedout.begin() + eff_k , flattenedout.end());
+                int oldidx = i*cols + j;
 
-        //now make array?
-        vector<vector<int>>finalans;
-        int cursize=0;
-        vector<int>currow;
-        for(int i=0;i<flattenedout.size() ; i++){
-            cursize++;
-            currow.push_back(flattenedout[i]);
-            if(cursize == cols){
-                finalans.push_back(currow);
-                currow.clear();
-                cursize=0;
+                int newidx = (oldidx + eff_k) % total;
+                int new_r = newidx/cols;
+                int new_c = newidx % cols;
+
+                finalans[new_r][new_c] = grid[i][j];
             }
         }
         return finalans;
