@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/nehal-04/leet_track_nehal011/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nehal-04/leet_track_nehal011/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
+| [1260-shift-2d-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/1260-shift-2d-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
