@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/nehal-04/leet_track_nehal011/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehal-04/leet_track_nehal011/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nehal-04/leet_track_nehal011/tree/master/0217-contains-duplicate) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nehal-04/leet_track_nehal011/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nehal-04/leet_track_nehal011/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0179-largest-number) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/nehal-04/leet_track_nehal011/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
