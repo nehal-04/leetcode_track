@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/nehal-04/leet_track_nehal011/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
+| [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/nehal-04/leet_track_nehal011/tree/master/1845-seat-reservation-manager) |
 | [2349-design-a-number-container-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
+| [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
