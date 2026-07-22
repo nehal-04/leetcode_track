@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
 ## Tree
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/nehal-04/leet_track_nehal011/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
