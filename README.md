@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/1331-rank-transform-of-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1539-kth-missing-positive-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [1813-sentence-similarity-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1813-sentence-similarity-iii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
