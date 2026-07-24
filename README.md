@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nehal-04/leet_track_nehal011/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2140-solving-questions-with-brainpower](https://github.com/nehal-04/leet_track_nehal011/tree/master/2140-solving-questions-with-brainpower) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Memoization
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2140-solving-questions-with-brainpower](https://github.com/nehal-04/leet_track_nehal011/tree/master/2140-solving-questions-with-brainpower) |
 | [2241-design-an-atm-machine](https://github.com/nehal-04/leet_track_nehal011/tree/master/2241-design-an-atm-machine) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
