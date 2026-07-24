@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nehal-04/leet_track_nehal011/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
+| [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/nehal-04/leet_track_nehal011/tree/master/1035-uncrossed-lines) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehal-04/leet_track_nehal011/tree/master/0706-design-hashmap) |
+| [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
+| [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Geometry
