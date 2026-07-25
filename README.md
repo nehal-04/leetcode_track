@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nehal-04/leet_track_nehal011/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
+| [0844-backspace-string-compare](https://github.com/nehal-04/leet_track_nehal011/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1813-sentence-similarity-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/nehal-04/leet_track_nehal011/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nehal-04/leet_track_nehal011/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/nehal-04/leet_track_nehal011/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/nehal-04/leet_track_nehal011/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
