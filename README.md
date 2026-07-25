@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nehal-04/leet_track_nehal011/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/3536-maximum-product-of-two-digits) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## String
 |  |
