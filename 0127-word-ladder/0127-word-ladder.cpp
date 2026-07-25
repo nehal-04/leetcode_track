@@ -20,16 +20,16 @@ public:
             int n=q.size();
             
             for(int i=0;i<n;i++){
-                string word = q.front();
+                string word=q.front();
                 q.pop();
-                for(char ch: "abcdefghijklmnopqrstuvwxyz"){
-                    for(int i=0;i<word_size;i++){
-                        if(word[i] == ch) continue;
-                        string neigh=word;
-                        neigh[i]=ch;
+                for(int i=0;i<word_size;i++){
+
+                    string neigh=word;
+                    for(char ch ='a' ; ch <='z';ch++){
+                        neigh[i] = ch;
                         if(visited.find(neigh) != visited.end()) continue;
                         if(word_bank.find(neigh) == word_bank.end()) continue;
-                        if(neigh == endWord) return level+2;
+                        if(neigh == endWord) return level + 2;
                         q.push(neigh);
                         visited.insert(neigh);
                     }
