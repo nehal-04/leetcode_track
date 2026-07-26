@@ -52,6 +52,7 @@ private:
 public:
     LRUCache(int capacity) {
         cap=capacity;
+        if(cap==0) return;
         head=new NodeD(-1,-1);
         tail = new NodeD(-1,-1);
         head->next=tail;
