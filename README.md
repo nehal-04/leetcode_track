@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2390-removing-stars-from-a-string) |
 | [2408-design-sql](https://github.com/nehal-04/leet_track_nehal011/tree/master/2408-design-sql) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehal-04/leet_track_nehal011/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
