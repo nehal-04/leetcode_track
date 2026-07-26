@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehal-04/leet_track_nehal011/tree/master/0706-design-hashmap) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
