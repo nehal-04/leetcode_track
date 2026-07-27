@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/3536-maximum-product-of-two-digits) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3242-design-neighbor-sum-service](https://github.com/nehal-04/leet_track_nehal011/tree/master/3242-design-neighbor-sum-service) |
 ## String Matching
 |  |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
