@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nehal-04/leet_track_nehal011/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
@@ -615,5 +616,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
