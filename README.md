@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/nehal-04/leet_track_nehal011/tree/master/1686-stone-game-vi) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nehal-04/leet_track_nehal011/tree/master/1048-longest-string-chain) |
 | [1813-sentence-similarity-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -640,4 +642,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
