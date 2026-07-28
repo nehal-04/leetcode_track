@@ -1,6 +1,6 @@
 class Solution {
 private:
-    vector<vector<int>>mem_help{2 , vector<int>(5*(1e4) , -1)};
+    vector<vector<int>>mem_help;
     int finalhelper(int cur_stone , int player , vector<int>&stoneValue){
         int n= stoneValue.size();
         if(cur_stone >= n) return 0;
@@ -29,6 +29,8 @@ private:
     }
 public:
     string stoneGameIII(vector<int>& stoneValue) {
+        int n = stoneValue.size();
+        mem_help.resize(2,vector<int>(n,-1));
         int ans = finalhelper(0, 1,stoneValue);
         if(ans>0) return "Alice";
         else if(ans < 0) return "Bob";
