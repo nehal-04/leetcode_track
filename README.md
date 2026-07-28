@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nehal-04/leet_track_nehal011/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/nehal-04/leet_track_nehal011/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/nehal-04/leet_track_nehal011/tree/master/1686-stone-game-vi) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
