@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nehal-04/leet_track_nehal011/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/nehal-04/leet_track_nehal011/tree/master/1686-stone-game-vi) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nehal-04/leet_track_nehal011/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nehal-04/leet_track_nehal011/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nehal-04/leet_track_nehal011/tree/master/1510-stone-game-iv) |
 | [2140-solving-questions-with-brainpower](https://github.com/nehal-04/leet_track_nehal011/tree/master/2140-solving-questions-with-brainpower) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Memoization
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nehal-04/leet_track_nehal011/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/nehal-04/leet_track_nehal011/tree/master/1686-stone-game-vi) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Brainteaser
