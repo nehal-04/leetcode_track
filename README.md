@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/3536-maximum-product-of-two-digits) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## String
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
 | [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
