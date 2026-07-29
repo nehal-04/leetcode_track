@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/nehal-04/leet_track_nehal011/tree/master/2241-design-an-atm-machine) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/nehal-04/leet_track_nehal011/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
