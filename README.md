@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehal-04/leet_track_nehal011/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 ## Array
 |  |
 | ------- |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
@@ -656,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
