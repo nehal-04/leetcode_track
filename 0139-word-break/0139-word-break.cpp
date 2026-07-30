@@ -3,7 +3,7 @@ private:
     
     vector<int>dp;
 
-    bool helper(string s, unordered_set<string>&st , int curidx){
+    bool helper(string &s, unordered_set<string>&st , int curidx){
        
        int n = s.size();
        if(curidx >=n) return true;
