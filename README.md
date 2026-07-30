@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/nehal-04/leet_track_nehal011/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2390-removing-stars-from-a-string) |
 | [2408-design-sql](https://github.com/nehal-04/leet_track_nehal011/tree/master/2408-design-sql) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
