@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/nehal-04/leet_track_nehal011/tree/master/1510-stone-game-iv) |
 | [2140-solving-questions-with-brainpower](https://github.com/nehal-04/leet_track_nehal011/tree/master/2140-solving-questions-with-brainpower) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2390-removing-stars-from-a-string) |
 | [2408-design-sql](https://github.com/nehal-04/leet_track_nehal011/tree/master/2408-design-sql) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
+| [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-design-sql](https://github.com/nehal-04/leet_track_nehal011/tree/master/2408-design-sql) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-design-neighbor-sum-service](https://github.com/nehal-04/leet_track_nehal011/tree/master/3242-design-neighbor-sum-service) |
@@ -691,4 +695,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nehal-04/leet_track_nehal011/tree/master/0139-word-break) |
+| [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
