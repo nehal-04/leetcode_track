@@ -15,10 +15,12 @@ private:
        for(int i=curidx;i<n;i++){
         if(st.find(s.substr(curidx , i-curidx+1)) != st.end()){
             bool sub_ans = helper(s , st , i+1);
-            if(sub_ans == true) ans=sub_ans;
+            if(sub_ans == true){
+                return dp[curidx]=true;
+                
+            }
         }
-       } 
-       if(ans) return dp[curidx] = true;        
+       }  
        return dp[curidx] = false;
     }
 public:
