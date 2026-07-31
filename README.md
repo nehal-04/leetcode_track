@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/nehal-04/leet_track_nehal011/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nehal-04/leet_track_nehal011/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nehal-04/leet_track_nehal011/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0292-nim-game) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nehal-04/leet_track_nehal011/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/nehal-04/leet_track_nehal011/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0126-word-ladder-ii) |
 ## Monotonic Stack
 |  |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nehal-04/leet_track_nehal011/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
 | [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0810-chalkboard-xor-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0810-chalkboard-xor-game) |
