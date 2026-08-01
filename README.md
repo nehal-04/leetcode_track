@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/nehal-04/leet_track_nehal011/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
 | [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0810-chalkboard-xor-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0810-chalkboard-xor-game) |
