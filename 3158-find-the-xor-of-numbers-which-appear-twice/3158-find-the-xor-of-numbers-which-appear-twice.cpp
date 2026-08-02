@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int duplicateNumbersXOR(vector<int>& nums) {
+        vector<int>freq(51,0);
+        for(int num:nums){
+            freq[num] ++;
+        }
+        int ans = 0;
+        for(int i=1;i<=50;i++){
+            if(freq[i] == 2) ans ^= i;
+        }
+        return ans;
+    }
+};
