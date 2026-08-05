@@ -19,15 +19,12 @@ public:
         dfs(adj,k,suspicious);
 
         unordered_set<int>sus;
-        for(int i=0;i<suspicious.size();i++){
-            if(suspicious[i] == true) sus.insert(i);
-        }
 
         bool check=false;
         for(vector<int>&v:invocations){
             int first=v[0];
             int sec = v[1];
-            if(sus.find(sec) != sus.end()  && sus.find(first)==sus.end()){
+            if(!suspicious[first]  && suspicious[sec]){
                 check = true;
                 break;
             }
@@ -38,7 +35,7 @@ public:
         if(check) return fin_arr;
         fin_arr.clear();
         for(int i=0;i<n;i++){
-            if(sus.count(i) == 0) fin_arr.push_back(i); 
+            if(!suspicious[i]) fin_arr.push_back(i); 
         } 
         return fin_arr;
 
