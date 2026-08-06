@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
+| [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/nehal-04/leet_track_nehal011/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/nehal-04/leet_track_nehal011/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -720,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/nehal-04/leet_track_nehal011/tree/master/0139-word-break) |
 | [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
