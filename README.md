@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0583-delete-operation-for-two-strings) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/nehal-04/leet_track_nehal011/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/nehal-04/leet_track_nehal011/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehal-04/leet_track_nehal011/tree/master/0628-maximum-product-of-three-numbers) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nehal-04/leet_track_nehal011/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/nehal-04/leet_track_nehal011/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -727,8 +730,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
