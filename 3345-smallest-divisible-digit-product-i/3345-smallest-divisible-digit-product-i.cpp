@@ -13,7 +13,7 @@ public:
     int smallestNumber(int n, int t) {
         int i=n;
 
-        while(true){
+        while(i<=n+10){
             int prod = productofdigits(i);
             if(prod % t == 0) return i;
             i++;
