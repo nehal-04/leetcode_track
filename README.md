@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2396-strictly-palindromic-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/nehal-04/leet_track_nehal011/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nehal-04/leet_track_nehal011/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3484-design-spreadsheet](https://github.com/nehal-04/leet_track_nehal011/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
