@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nehal-04/leet_track_nehal011/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2707-extra-characters-in-a-string](https://github.com/nehal-04/leet_track_nehal011/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nehal-04/leet_track_nehal011/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nehal-04/leet_track_nehal011/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nehal-04/leet_track_nehal011/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nehal-04/leet_track_nehal011/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
