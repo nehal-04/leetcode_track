@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/nehal-04/leet_track_nehal011/tree/master/2140-solving-questions-with-brainpower) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nehal-04/leet_track_nehal011/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2241-design-an-atm-machine](https://github.com/nehal-04/leet_track_nehal011/tree/master/2241-design-an-atm-machine) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/nehal-04/leet_track_nehal011/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nehal-04/leet_track_nehal011/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nehal-04/leet_track_nehal011/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2349-design-a-number-container-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/2353-design-a-food-rating-system) |
 ## Game Theory
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0307-range-sum-query-mutable) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nehal-04/leet_track_nehal011/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sqrt Decomposition
 |  |
 | ------- |
