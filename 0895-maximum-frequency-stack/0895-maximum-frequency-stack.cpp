@@ -1,56 +1,37 @@
 class FreqStack {
 private:
     int max_freq;
-    stack<int>st1;
-    stack<int>st2;
-
-    unordered_map<int,int>key_freq;
-    unordered_map<int,int>freq_count;
+    unordered_map<int , int > freq;
+    vector<vector<int>>groups;
 public:
     FreqStack() {
         max_freq=0;
+        groups.resize(20000); // as 2*10 power 4 pushes possible
+
     }
     
     void push(int val) {
-        if(key_freq.find(val) == key_freq.end()){
-            //first element occurence in stack
-            key_freq[val]=1;
-            max_freq = max(max_freq , 1);
-            freq_count[1]++;
+        if(freq.find(val) == freq.end()){
+            // new element
+            freq[val] = 1;
+            groups[1].push_back(val);
+            max_freq=max(max_freq,1);
         }
         else{
-            key_freq[val] ++;
-            freq_count[key_freq[val] -1] --;
-            freq_count[key_freq[val]]++;
-            max_freq = max(max_freq , key_freq[val]);
+            int f = freq[val];
+            freq[val]++;
+            groups[f+1].push_back(val);
+            max_freq=max(max_freq,f+1);
         }
-        st1.push(val);
     }
     
     int pop() {
-        int ans ;
-        while(!st1.empty()){
-            int node=st1.top();
-            st1.pop();
-            if(key_freq[node] != max_freq) st2.push(node);
-            else{
-                freq_count[max_freq]--;
-                key_freq[node]--;
-                freq_count[key_freq[node]]++;
+        int val = groups[max_freq].back();
+        groups[max_freq].pop_back();
 
-                if(freq_count[max_freq] == 0){
-                    max_freq--;
-                }                
-                ans=node;
-                break;
-            }
-        }
-        while(!st2.empty()){
-            int nde = st2.top();
-            st2.pop();
-            st1.push(nde);
-        }
-        return ans;
+        freq[val]--;
+        if(groups[max_freq].size() == 0) max_freq--;
+        return val;
     }
 };
 
