@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehal-04/leet_track_nehal011/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0368-largest-divisible-subset) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nehal-04/leet_track_nehal011/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/nehal-04/leet_track_nehal011/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/nehal-04/leet_track_nehal011/tree/master/0705-design-hashset) |
