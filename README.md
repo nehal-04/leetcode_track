@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nehal-04/leet_track_nehal011/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nehal-04/leet_track_nehal011/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nehal-04/leet_track_nehal011/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehal-04/leet_track_nehal011/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nehal-04/leet_track_nehal011/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehal-04/leet_track_nehal011/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehal-04/leet_track_nehal011/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nehal-04/leet_track_nehal011/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/nehal-04/leet_track_nehal011/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/nehal-04/leet_track_nehal011/tree/master/0907-sum-of-subarray-minimums) |
@@ -784,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0307-range-sum-query-mutable) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nehal-04/leet_track_nehal011/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
