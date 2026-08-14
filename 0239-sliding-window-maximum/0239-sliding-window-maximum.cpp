@@ -2,36 +2,30 @@ class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         int n=nums.size();
+        deque<int>dq;
         vector<int>ans;
-        deque<int>dq; //store only idx
+        //first make for k elements then later 
         for(int i=0;i<k;i++){
-            int val=nums[i];
-            while(!dq.empty() && nums[dq.back()] < val) dq.pop_back();
-            dq.push_back(i);
-            
+            if(dq.empty()) dq.push_back(i);
+            else{
+                while(!dq.empty() && nums[dq.back()] <= nums[i]) dq.pop_back();
+                dq.push_back(i);
+            }
         }
+
         ans.push_back(nums[dq.front()]);
-        //storing only indexes
+
+        // now each element entry after the first k elements
+
         for(int i=k;i<n;i++){
-            int val=nums[i];
-            //every iteration 2 steps , deque jmain structrue , remove elemnt if nto part of sliding window
-            while(!dq.empty() && dq.front() < i-k+1) dq.pop_front();
-            // if a new element bigger han tha existing elements , existing elements in furturwe can never be max so remove
-            while(!dq.empty() && nums[dq.back()] < val)dq.pop_back();
+            // 2 things , first if new element greater , keep popping , then secondly while the first element is out of rangee keep popping then add into answer
 
+            while(!dq.empty() && nums[dq.back()] <= nums[i]) dq.pop_back();
+            while(!dq.empty() && dq.front() < i - k + 1) dq.pop_front();
             dq.push_back(i);
-
-            //doubtful wat will amax be?
             ans.push_back(nums[dq.front()]);
-
         }
         return ans;
-
-
-
-
-
-
         
 
     }
