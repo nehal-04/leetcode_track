@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/nehal-04/leet_track_nehal011/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehal-04/leet_track_nehal011/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/3731-find-missing-elements) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/nehal-04/leet_track_nehal011/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Combinatorics
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nehal-04/leet_track_nehal011/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehal-04/leet_track_nehal011/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
 | ------- |
