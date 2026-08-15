@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nehal-04/leet_track_nehal011/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nehal-04/leet_track_nehal011/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/nehal-04/leet_track_nehal011/tree/master/2596-check-knight-tour-configuration) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/nehal-04/leet_track_nehal011/tree/master/2241-design-an-atm-machine) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nehal-04/leet_track_nehal011/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nehal-04/leet_track_nehal011/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2456-most-popular-video-creator](https://github.com/nehal-04/leet_track_nehal011/tree/master/2456-most-popular-video-creator) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nehal-04/leet_track_nehal011/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nehal-04/leet_track_nehal011/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2611-mice-and-cheese](https://github.com/nehal-04/leet_track_nehal011/tree/master/2611-mice-and-cheese) |
 | [2784-check-if-array-is-good](https://github.com/nehal-04/leet_track_nehal011/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nehal-04/leet_track_nehal011/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/nehal-04/leet_track_nehal011/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
