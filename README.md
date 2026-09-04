@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/nehal-04/leet_track_nehal011/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0878-nth-magical-number) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
 | [0973-k-closest-points-to-origin](https://github.com/nehal-04/leet_track_nehal011/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/nehal-04/leet_track_nehal011/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
@@ -833,4 +835,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
