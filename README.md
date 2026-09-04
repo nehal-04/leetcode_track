@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehal-04/leet_track_nehal011/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/nehal-04/leet_track_nehal011/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/nehal-04/leet_track_nehal011/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nehal-04/leet_track_nehal011/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nehal-04/leet_track_nehal011/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nehal-04/leet_track_nehal011/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/nehal-04/leet_track_nehal011/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehal-04/leet_track_nehal011/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/nehal-04/leet_track_nehal011/tree/master/0826-most-profit-assigning-work) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/nehal-04/leet_track_nehal011/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nehal-04/leet_track_nehal011/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
 | [0464-can-i-win](https://github.com/nehal-04/leet_track_nehal011/tree/master/0464-can-i-win) |
 | [0810-chalkboard-xor-game](https://github.com/nehal-04/leet_track_nehal011/tree/master/0810-chalkboard-xor-game) |
 | [0957-prison-cells-after-n-days](https://github.com/nehal-04/leet_track_nehal011/tree/master/0957-prison-cells-after-n-days) |
@@ -821,4 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nehal-04/leet_track_nehal011/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nehal-04/leet_track_nehal011/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nehal-04/leet_track_nehal011/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
