@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nehal-04/leet_track_nehal011/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/nehal-04/leet_track_nehal011/tree/master/1686-stone-game-vi) |
 | [1813-sentence-similarity-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1813-sentence-similarity-iii) |
+| [1854-maximum-population-year](https://github.com/nehal-04/leet_track_nehal011/tree/master/1854-maximum-population-year) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nehal-04/leet_track_nehal011/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1854-maximum-population-year](https://github.com/nehal-04/leet_track_nehal011/tree/master/1854-maximum-population-year) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nehal-04/leet_track_nehal011/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2381-shifting-letters-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/2381-shifting-letters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nehal-04/leet_track_nehal011/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nehal-04/leet_track_nehal011/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nehal-04/leet_track_nehal011/tree/master/0912-sort-an-array) |
 | [1603-design-parking-system](https://github.com/nehal-04/leet_track_nehal011/tree/master/1603-design-parking-system) |
+| [1854-maximum-population-year](https://github.com/nehal-04/leet_track_nehal011/tree/master/1854-maximum-population-year) |
 | [2284-sender-with-largest-word-count](https://github.com/nehal-04/leet_track_nehal011/tree/master/2284-sender-with-largest-word-count) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nehal-04/leet_track_nehal011/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
